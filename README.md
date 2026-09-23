@@ -120,6 +120,7 @@ var nans = require( '@stdlib/ndarray-base-nans' );
 var dt = [
     'float64',
     'float32',
+    'float16',
     'complex128',
     'complex64',
     'generic'
